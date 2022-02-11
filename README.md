@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @Mitelite
 - 👀 I’m interested in coding Discord bot and Minecraft client 🤔
 - 🌱 I’m currently learning Java, Python, JavaScript
-- 💞️ I’m looking to collaborate on Minecraft client...
 - 📫 I'm not opening to contact yet!
 # Target
 - Try to be full stack developer in the future
